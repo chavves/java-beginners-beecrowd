@@ -4,21 +4,24 @@ Bem-vindo ao meu repositório! Este espaço é dedicado ao meu aprendizado em pr
 
 ## Objetivo
 
-O principal objetivo deste repositório é documentar meu progresso enquanto aprendo a programar. Estou resolvendo exercícios práticos de lógica de programação que me ajudam a entender os fundamentos da linguagem Java.
+Documentar meu aprendizado em lógica de programação através da resolução de exercícios práticos do BeeCrowd.
+- Aplicar conceitos fundamentais de programação em Java para desenvolver soluções eficientes e corretas.
+- Melhorar minhas habilidades de raciocínio lógico e resolução de problemas, preparando-me para desafios futuros na programação.
 
 ## Estrutura do Repositório
 
 - Todos os exercícios estão organizados em uma única pasta chamada `exercicios`.
 
-## Exercícios
+## Conteúdos Abordados
 
 Atualmente, estou trabalhando em exercícios de lógica de programação, incluindo:
 
-- Verificação de números primos
-- Cálculo de fatorial
-- Cálculo de soma e média de números
-- Contagem de vogais em uma string
-- E outros desafios de lógica 
+- Estruturas de controle (condicionais e loops)
+- Variáveis e tipos de dados
+- Funções e procedimentos
+- Algoritmos e pseudocódigo
+- Estruturas de dados básicas (listas, arrays)
+- Desafios de lógica e raciocínio
 
 ## Reflexão sobre o Aprendizado
 
