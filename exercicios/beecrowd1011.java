@@ -11,7 +11,7 @@ public class beecrowd1011 {
         final double PI = 3.14159;
 
         double R = sc.nextDouble();
-        volume = (4/3.0) * PI * Math.pow(R, 3);
+        volume = (double) (4/3) * PI * Math.pow(R, 3);
 
         System.out.printf("VOLUME = %.3f%n", volume);
 
