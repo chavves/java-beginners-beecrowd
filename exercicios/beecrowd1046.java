@@ -10,7 +10,8 @@ public class beecrowd1046 {
         int horaInicial = sc.nextInt();
         int horaFinal = sc.nextInt();
 
-        int duracao;
+        int duracao = 0;
+
         if (horaFinal > horaInicial) {
             duracao = horaFinal - horaInicial;
         } else {
