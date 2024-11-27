@@ -14,7 +14,6 @@ public class beecrowd1134 {
         while (true) {
             numProduto = sc.nextInt();
 
-
             switch (numProduto) {
                 case 1:
                     A += 1;
