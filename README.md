@@ -1,6 +1,6 @@
 # Práticas de Exercícios do BeeCrowd em Java
 
-Bem-vindo ao meu repositório! Este espaço é dedicado ao meu aprendizado em programação, especificamente utilizando Java. Aqui, você encontrará as práticas de exercícios do BeeCrowd que foram passados pelo meu professor. Estou começando minha jornada na programação e documentando meu progresso.
+Bem-vindo ao meu repositório! Este espaço é dedicado ao meu aprendizado em programação, especificamente utilizando Java. Aqui, você encontrará as práticas de exercícios do BeeCrowd que foram passados pelo professor, Nélio Alves. Estou começando minha jornada na programação e documentando meu progresso.
 
 ## Objetivo
 
