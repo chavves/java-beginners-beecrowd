@@ -23,5 +23,7 @@ public class beecrowd1154 {
 
         System.out.printf("%.2f%n", media);
 
+        sc.close();
+
     }
 }
