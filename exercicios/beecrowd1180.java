@@ -24,6 +24,10 @@ public class beecrowd1180 {
             }
         }
 
+        System.out.println("Menor valor: " + menorValor);
+        System.out.println("Posicao: " + posicao);
+
+
         sc.close();
     }
 }
